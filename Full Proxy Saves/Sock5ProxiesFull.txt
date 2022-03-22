@@ -1,0 +1,44 @@
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 776, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.195.34.60:27391'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 576, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.178.172.13:15311'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 1388, 'country': 'United States', 'country_code': 'US', 'IP:Port': '98.175.31.195:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3753, 'country': 'Russian Federation', 'country_code': 'RU', 'IP:Port': '195.2.71.201:16072'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 696, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.195.114.184:4145'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 2175, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.179.216.133:24630'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2739, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.221.172.203:4145'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 598, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.178.172.5:15303'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 2342, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.223.168.67:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1963, 'country': 'China', 'country_code': 'CN', 'IP:Port': '112.5.101.162:7300'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3442, 'country': 'China', 'country_code': 'CN', 'IP:Port': '47.109.40.23:1080'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3808, 'country': 'China', 'country_code': 'CN', 'IP:Port': '117.156.203.11:7302'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1251, 'country': 'United States', 'country_code': 'US', 'IP:Port': '166.62.118.86:32470'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 2588, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.111.130.5:17002'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1683, 'country': 'United States', 'country_code': 'US', 'IP:Port': '174.77.111.198:49547'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 670, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.178.172.13:15311'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3315, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.252.215.5:16137'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 788, 'country': 'China', 'country_code': 'CN', 'IP:Port': '118.190.24.244:20002'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1196, 'country': 'United States', 'country_code': 'US', 'IP:Port': '70.166.167.55:57745'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 747, 'country': 'United States', 'country_code': 'US', 'IP:Port': '24.249.199.4:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 737, 'country': 'United States', 'country_code': 'US', 'IP:Port': '174.75.211.222:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3029, 'country': 'United States', 'country_code': 'US', 'IP:Port': '98.170.57.231:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 740, 'country': 'United States', 'country_code': 'US', 'IP:Port': '174.64.199.82:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1613, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.178.172.14:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 3005, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.195.114.169:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 764, 'country': 'Russian Federation', 'country_code': 'RU', 'IP:Port': '195.2.71.201:16072'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 1904, 'country': 'United States', 'country_code': 'US', 'IP:Port': '174.77.111.198:49547'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 2013, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.252.208.70:14282'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 720, 'country': 'Russian Federation', 'country_code': 'RU', 'IP:Port': '62.113.115.94:16072'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 4146, 'country': 'China', 'country_code': 'CN', 'IP:Port': '117.139.164.64:7302'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 4156, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.252.209.155:14455'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2429, 'country': 'United States', 'country_code': 'US', 'IP:Port': '72.210.252.134:46164'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2783, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.252.215.5:16137'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1691, 'country': 'Germany', 'country_code': 'DE', 'IP:Port': '207.180.204.70:65432'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1389, 'country': 'China', 'country_code': 'CN', 'IP:Port': '47.109.40.23:1080'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1743, 'country': 'United States', 'country_code': 'US', 'IP:Port': '24.249.199.4:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1595, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.252.220.92:17328'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 745, 'country': 'United States', 'country_code': 'US', 'IP:Port': '98.162.25.4:31654'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2085, 'country': 'United States', 'country_code': 'US', 'IP:Port': '174.75.211.222:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 1776, 'country': 'United States', 'country_code': 'US', 'IP:Port': '98.170.57.231:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 615, 'country': 'United States', 'country_code': 'US', 'IP:Port': '184.178.172.18:15280'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2605, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.111.139.163:19404'}
+{'protocols': ['socks4', 'socks5'], 'anonymity': 'Elite', 'timeout': 2070, 'country': 'United States', 'country_code': 'US', 'IP:Port': '70.185.68.133:4145'}
+{'protocols': ['socks5'], 'anonymity': 'Elite', 'timeout': 2163, 'country': 'United States', 'country_code': 'US', 'IP:Port': '192.111.130.5:17002'}
