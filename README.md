@@ -13,6 +13,12 @@ Files beginning with "All" are the unchecked (all) proxy outputs. This file will
 
 ## Simple Use Example
 
+
+### Before use: 
+**Before running**, make sure you populate your "URLS.txt" file with the sites you want to scrape for proxies; 
+**ONE URL PER LINE MAXIMUM**
+
+
 ### Step 1:
 Run the scraper in terminal or through your IDE. 
 Using CMD and your choice of terminal, navigate to the directory housing the `BasicProxyScraper.py` and type `python BasicProxyScraper.py`. You will see something similar to the image below after hitting enter. Answer if you would like to have your proxies checked with either "Yes" or "No"
