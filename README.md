@@ -1,6 +1,8 @@
 # Basic_Proxy_Scraper
 ## Resources
+
 `Dependencies:` [proxy-checker](https://pypi.org/project/proxy-checker/) **|** [pyfiglet](https://pypi.org/project/pyfiglet/) **|** [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) **|** [requests](https://docs.python-requests.org/en/latest/) **|** [re (Regex)](https://docs.python.org/3/library/re.html)
+
 `Source Code:` [BasicProxyScraper.py](https://github.com/StickySitch/Basic_Proxy_Scraper/blob/main/BasicProxyScraper.py "BasicProxyScraper.py")
 
 ## Output
